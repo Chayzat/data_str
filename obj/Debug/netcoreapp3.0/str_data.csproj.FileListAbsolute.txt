@@ -1,0 +1,11 @@
+C:\Users\Чочаа\source\repos\str_data\bin\Debug\netcoreapp3.0\str_data.exe
+C:\Users\Чочаа\source\repos\str_data\bin\Debug\netcoreapp3.0\str_data.deps.json
+C:\Users\Чочаа\source\repos\str_data\bin\Debug\netcoreapp3.0\str_data.runtimeconfig.json
+C:\Users\Чочаа\source\repos\str_data\bin\Debug\netcoreapp3.0\str_data.runtimeconfig.dev.json
+C:\Users\Чочаа\source\repos\str_data\bin\Debug\netcoreapp3.0\str_data.dll
+C:\Users\Чочаа\source\repos\str_data\bin\Debug\netcoreapp3.0\str_data.pdb
+C:\Users\Чочаа\source\repos\str_data\obj\Debug\netcoreapp3.0\str_data.csprojAssemblyReference.cache
+C:\Users\Чочаа\source\repos\str_data\obj\Debug\netcoreapp3.0\str_data.AssemblyInfoInputs.cache
+C:\Users\Чочаа\source\repos\str_data\obj\Debug\netcoreapp3.0\str_data.AssemblyInfo.cs
+C:\Users\Чочаа\source\repos\str_data\obj\Debug\netcoreapp3.0\str_data.dll
+C:\Users\Чочаа\source\repos\str_data\obj\Debug\netcoreapp3.0\str_data.pdb
